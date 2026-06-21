@@ -1,0 +1,3 @@
+C:/Users/bati2/clion projekty/generato_liczb_pseudo_losowcy_realloc/cmake-build-debug/CMakeFiles/generato_liczb_pseudo_losowcy_realloc.dir
+C:/Users/bati2/clion projekty/generato_liczb_pseudo_losowcy_realloc/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bati2/clion projekty/generato_liczb_pseudo_losowcy_realloc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
