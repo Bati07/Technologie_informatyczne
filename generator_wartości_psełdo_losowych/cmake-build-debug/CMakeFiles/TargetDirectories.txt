@@ -1,0 +1,3 @@
+C:/Users/bati2/clion projekty/generator_wartości_psełdo_losowych/cmake-build-debug/CMakeFiles/generator_wartoci_psedo_losowych.dir
+C:/Users/bati2/clion projekty/generator_wartości_psełdo_losowych/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bati2/clion projekty/generator_wartości_psełdo_losowych/cmake-build-debug/CMakeFiles/rebuild_cache.dir
