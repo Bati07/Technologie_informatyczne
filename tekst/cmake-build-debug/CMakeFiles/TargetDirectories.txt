@@ -1,0 +1,3 @@
+C:/Users/bati2/clion projekty/tekst/cmake-build-debug/CMakeFiles/tekst.dir
+C:/Users/bati2/clion projekty/tekst/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bati2/clion projekty/tekst/cmake-build-debug/CMakeFiles/rebuild_cache.dir
