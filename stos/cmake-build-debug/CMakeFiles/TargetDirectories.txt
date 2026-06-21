@@ -1,0 +1,3 @@
+C:/Users/stand/CLionProjects/stos/cmake-build-debug/CMakeFiles/stos.dir
+C:/Users/stand/CLionProjects/stos/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/stand/CLionProjects/stos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
